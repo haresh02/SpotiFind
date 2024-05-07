@@ -1,7 +1,8 @@
-package com.example.spotifind;
+package com.example.spotifind.Activity;
 
 import android.os.Bundle;
 
+import com.example.spotifind.R;
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;

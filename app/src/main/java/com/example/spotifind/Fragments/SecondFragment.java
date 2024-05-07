@@ -1,4 +1,4 @@
-package com.example.spotifind;
+package com.example.spotifind.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
+import com.example.spotifind.R;
 import com.example.spotifind.databinding.FragmentSecondBinding;
 
 public class SecondFragment extends Fragment {
