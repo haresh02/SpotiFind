@@ -21,5 +21,5 @@ public class PKCE {
         byte[] hashedBytes = digest.digest();
         return Base64.encodeToString(hashedBytes, Base64.URL_SAFE | Base64.NO_WRAP | Base64.NO_PADDING);
     }
-    
+
 }
